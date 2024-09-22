@@ -1,0 +1,43 @@
+[colors]
+foreground = "#393330"
+background = "#ffead8"
+cursor_bg = "#393330"
+cursor_border = "#393330"
+cursor_fg = "#ffead8"
+selection_bg = "${visual}"
+selection_fg = "#393330"
+split = "#5f55df"
+compose_cursor = "#b44405"
+
+ansi = ["#ffead8", "#b0000f", "#007000", "#906200", "#375cc6", "#a23ea4", "#3f69af", "#393330"]
+brights = ["#f0d8cf", "#d00000", "#008900", "#808000", "#0000ff", "#dd22dd", "#008899", "#6e678f"]
+
+[colors.tab_bar]
+inactive_tab_edge = "#c7b2ab"
+background = "#e7d2cb"
+
+[colors.tab_bar.active_tab]
+fg_color = "#8a5f4a"
+bg_color = "#ffead8"
+
+[colors.tab_bar.inactive_tab]
+fg_color = "#393330"
+bg_color = "#c7b2ab"
+
+[colors.tab_bar.inactive_tab_hover]
+fg_color = "#8a5f4a"
+bg_color = "#c7b2ab"
+
+[colors.tab_bar.new_tab_hover]
+fg_color = "#8a5f4a"
+bg_color = "#ffead8"
+intensity = "Bold"
+
+[colors.tab_bar.new_tab]
+fg_color = "#393330"
+bg_color = "#e7d2cb"
+
+[metadata]
+aliases = []
+author = "theopechli"
+name = "Ef Arbutus"

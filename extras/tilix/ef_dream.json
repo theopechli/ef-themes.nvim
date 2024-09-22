@@ -1,0 +1,25 @@
+{
+    "name": "Ef Dream",
+    "comment": "Colorful and legible theme."
+    "use-theme-colors": false,
+    "foreground-color": "#efd5c5",
+    "background-color": "#232025",
+    "palette": [
+        "#232025",
+        "#ff6f6f",
+        "#51b04f",
+        "#c0b24f",
+        "#57b0ff",
+        "#ffaacf",
+        "#6fb3c0",
+        "#efd5c5",
+        "#322f34",
+        "#ff5f5f",
+        "#44df44",
+        "#efef00",
+        "#338fff",
+        "#ff66ff",
+        "#00eff0",
+        "#8f8886"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ef Arbutus",
+    "comment": "Colorful and legible theme."
+    "use-theme-colors": false,
+    "foreground-color": "#393330",
+    "background-color": "#ffead8",
+    "palette": [
+        "#ffead8",
+        "#b0000f",
+        "#007000",
+        "#906200",
+        "#375cc6",
+        "#a23ea4",
+        "#3f69af",
+        "#393330",
+        "#f0d8cf",
+        "#d00000",
+        "#008900",
+        "#808000",
+        "#0000ff",
+        "#dd22dd",
+        "#008899",
+        "#6e678f"
+    ]
+}

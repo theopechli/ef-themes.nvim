@@ -1,0 +1,37 @@
+# Ef themes for Alacritty
+# Auto generated with https://github.com/theopechli/ef-themes.nvim/blob/master/lua/ef-themes/extras/alacritty.lua
+
+# Default colors
+[colors.primary]
+background   = '0xffead8'
+foreground   = '0x393330'
+
+# Normal colors
+[colors.normal]
+black     = '0xffead8'
+red       = '0xb0000f'
+green     = '0x007000'
+yellow    = '0x906200'
+blue      = '0x375cc6'
+magenta   = '0xa23ea4'
+cyan      = '0x3f69af'
+white     = '0x393330'
+
+# Bright colors
+[colors.bright]
+black     = '0xf0d8cf'
+red       = '0xd00000'
+green     = '0x008900'
+yellow    = '0x808000'
+blue      = '0x0000ff'
+magenta   = '0xdd22dd'
+cyan      = '0x008899'
+white     = '0x6e678f'
+
+[[colors.indexed_colors]]
+index     = 16
+color     = '0xb44405'
+
+[[colors.indexed_colors]]
+index     = 17
+color     = '0x8f2f30'

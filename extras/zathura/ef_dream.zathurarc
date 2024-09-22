@@ -1,0 +1,36 @@
+# Ef themes for Zathura
+# Auto generated with https://github.com/theopechli/ef-themes.nvim/blob/master/lua/ef-themes/extras/zathura.lua
+#
+set notification-error-bg "#a02f50"
+set notification-error-fg "#efd5c5"
+set notification-warning-bg "#8f665f"
+set notification-warning-fg "#efd5c5"
+set notification-bg "#232025"
+set notification-fg "#efd5c5"
+set completion-bg "#232025"
+set completion-fg "#8f8886"
+set completion-group-bg "#232025"
+set completion-group-fg "#8f8886"
+set completion-highlight-bg "#51b04f"
+set completion-highlight-fg "#232025"
+set index-bg "#232025"
+set index-fg "#efd5c5"
+set index-active-bg "#57b0ff"
+set index-active-fg "#232025"
+set inputbar-bg "#232025"
+set inputbar-fg "#efd5c5"
+set statusbar-bg "#675072"
+set statusbar-fg "#fedeff"
+set highlight-color "#c0b24f"
+set highlight-active-color "#51b04f"
+set default-bg "#232025"
+set default-fg "#efd5c5"
+set render-loading true
+set render-loading-fg "#232025"
+set render-loading-bg "#efd5c5"
+#
+# Recolor mode settings
+# <C-r> to switch modes
+#
+set recolor-lightcolor "#232025"
+set recolor-darkcolor "#efd5c5"

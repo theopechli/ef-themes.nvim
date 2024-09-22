@@ -1,0 +1,14 @@
+; Ef themes for Delta
+; Auto generated with https://github.com/theopechli/ef-themes.nvim/blob/master/lua/ef-themes/extras/delta.lua
+[delta]
+  minus-style                   = syntax "#f0bfcf"
+  minus-non-emph-style          = syntax "#f0bfcf"
+  minus-emph-style              = syntax "#f0bfcf"
+  minus-empty-line-marker-style = syntax "#f0bfcf"
+  line-numbers-minus-style      = "#f0bfcf"
+  plus-style                    = syntax "#a0d0f0"
+  plus-non-emph-style           = syntax "#a0d0f0"
+  plus-emph-style               = syntax "#a0d0f0"
+  plus-empty-line-marker-style  = syntax "#a0d0f0"
+  line-numbers-plus-style       = "#a0d0f0"
+  line-numbers-zero-style       = "#8f8886"

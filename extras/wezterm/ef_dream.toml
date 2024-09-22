@@ -1,0 +1,43 @@
+[colors]
+foreground = "#efd5c5"
+background = "#232025"
+cursor_bg = "#efd5c5"
+cursor_border = "#efd5c5"
+cursor_fg = "#232025"
+selection_bg = "#544a50"
+selection_fg = "#efd5c5"
+split = "#80aadf"
+compose_cursor = "#d09950"
+
+ansi = ["#232025", "#ff6f6f", "#51b04f", "#c0b24f", "#57b0ff", "#ffaacf", "#6fb3c0", "#efd5c5"]
+brights = ["#322f34", "#ff5f5f", "#44df44", "#efef00", "#338fff", "#ff66ff", "#00eff0", "#8f8886"]
+
+[colors.tab_bar]
+inactive_tab_edge = "#5b595e"
+background = "#3b393e"
+
+[colors.tab_bar.active_tab]
+fg_color = "#b0a0cf"
+bg_color = "#232025"
+
+[colors.tab_bar.inactive_tab]
+fg_color = "#efd5c5"
+bg_color = "#5b595e"
+
+[colors.tab_bar.inactive_tab_hover]
+fg_color = "#b0a0cf"
+bg_color = "#5b595e"
+
+[colors.tab_bar.new_tab_hover]
+fg_color = "#b0a0cf"
+bg_color = "#232025"
+intensity = "Bold"
+
+[colors.tab_bar.new_tab]
+fg_color = "#efd5c5"
+bg_color = "#3b393e"
+
+[metadata]
+aliases = []
+author = "theopechli"
+name = "Ef Dream"

@@ -1,0 +1,28 @@
+!! Ef themes for Xresources
+!! Auto generated with https://github.com/theopechli/ef-themes.nvim/blob/master/lua/ef-themes/extras/xresources.lua
+
+*background: #ffead8
+*foreground: #393330
+*accent_light: #4a659f
+*accent: #5f55df
+*accent_darker: #375cc6
+*accent_dark: #0000ff
+
+*color0: #ffead8
+*color1: #b0000f
+*color2: #007000
+*color3: #906200
+*color4: #375cc6
+*color5: #a23ea4
+*color6: #3f69af
+*color7: #393330
+
+*color8: #f0d8cf
+*color9: #d00000
+*color10: #008900
+*color11: #808000
+*color12: #0000ff
+*color13: #dd22dd
+*color14: #008899
+*color15: #6e678f
+

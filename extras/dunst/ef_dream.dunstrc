@@ -1,0 +1,17 @@
+# Ef themes for Dunst
+# Auto generated with https://github.com/theopechli/ef-themes.nvim/blob/master/lua/ef-themes/extras/dunst.lua
+
+[urgency_low]
+    background = "#232025"
+    foreground = "#efd5c5"
+    frame_color = "#80aadf"
+
+[urgency_normal]
+    background = "#232025"
+    foreground = "#efd5c5"
+    frame_color = "#80aadf"
+
+[urgency_critical]
+    background = "#232025"
+    foreground = "#e47980"
+    frame_color = "#e47980"

@@ -1,0 +1,28 @@
+# Ef themes for Alacritty
+# Auto generated with https://github.com/theopechli/ef-themes.nvim/blob/master/lua/ef-themes/extras/windows_terminal.lua
+# Learn more at
+# https://learn.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes#creating-your-own-color-scheme
+
+{
+    "name": "Ef Dream",
+    "background": "#232025",
+    "foreground": "#efd5c5",
+    "cursorColor": "#efd5c5",
+    "selectionBackground": "#544a50",
+    "black": "#232025",
+    "red": "#ff6f6f",
+    "green": "#51b04f",
+    "yellow": "#c0b24f",
+    "blue": "#57b0ff",
+    "purple": "#ffaacf",
+    "cyan": "#6fb3c0",
+    "white": "#efd5c5",
+    "brightBlack": "#322f34",
+    "brightRed": "#ff5f5f",
+    "brightGreen": "#44df44",
+    "brightYellow": "#efef00",
+    "brightBlue": "#338fff",
+    "brightPurple": "#ff66ff",
+    "brightCyan": "#00eff0",
+    "brightWhite": "#8f8886"
+}

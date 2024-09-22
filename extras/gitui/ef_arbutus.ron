@@ -1,0 +1,25 @@
+# Ef themes for GitUI
+# Auto generated with https://github.com/theopechli/ef-themes.nvim/blob/master/lua/ef-themes/extras/gitui.lua
+(
+  selected_tab: Rgb(162,62,164), // magenta #a23ea4
+  command_fg: Rgb(110,103,143), // comment #6e678f
+  selection_bg: ${visual}
+  selection_fg: Rgb(57,51,48), // fg_main #393330
+  cmdbar_bg: Rgb(255,234,216), // bg_main #ffead8
+  cmdbar_extra_lines_bg: Rgb(255,234,216), // bg_main #ffead8
+  disabled_fg: Rgb(110,103,143), // comment #6e678f
+  diff_line_add: Rgb(0,80,0), // fg_added #005000
+  diff_line_delete: Rgb(143,19,19), // fg_removed #8f1313
+  diff_file_added: Rgb(0,80,0), // fg_added #005000
+  diff_file_removed: Rgb(143,19,19), // fg_removed #8f1313
+  diff_file_moved: Rgb(132,85,146), // magenta_faint #845592
+  diff_file_modified: Rgb(85,61,0), // fg_changed #553d00
+  commit_hash: Rgb(132,85,146), // magenta_faint #845592
+  commit_time: Rgb(15,118,136), // cyan_cooler #0f7688
+  commit_author: Rgb(0,112,0), // green #007000
+  danger_fg: Rgb(176,0,15), // red #b0000f
+  push_gauge_bg: Rgb(255,234,216), // bg_main #ffead8
+  push_gauge_fg: Rgb(57,51,48), // fg_main #393330
+  tag_fg: Rgb(191,44,144), // magenta_warmer #bf2c90
+  branch_fg: Rgb(144,98,0), // yellow #906200
+)
