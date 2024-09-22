@@ -94,6 +94,7 @@ M.ef_arbutus = {
 	bg_char_0 = "#7feaff",
 	bg_char_1 = "#f0a0f0",
 	bg_char_2 = "#d0e000",
+	bg_region = "#dbe0c0",
 	-- Common active/inactive colors
 	bg_active = "#c7b2ab",
 	fg_active = "#384d54",
