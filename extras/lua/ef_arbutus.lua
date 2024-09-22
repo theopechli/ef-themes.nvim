@@ -40,6 +40,7 @@ local colors = {
   bg_red_intense = "#ff8f88",
   bg_red_nuanced = "#fff1f0",
   bg_red_subtle = "#ffcfbf",
+  bg_region = "#dbe0c0",
   bg_removed = "#f8c6b6",
   bg_removed_faint = "#f5d0b0",
   bg_removed_fringe = "#f86a7f",
@@ -109,6 +110,7 @@ local colors = {
   red_warmer = "#b20f00",
   rust = "#8a290f",
   slate = "#2f3f83",
+  visual = "#dbe0c0",
   warning = "#8a6340",
   yellow = "#906200",
   yellow_cooler = "#8a6340",
@@ -2129,6 +2131,7 @@ local highlights = {
     fg = "#375cc6"
   },
   QuickFixLine = {
+    bg = "#dbe0c0",
     fg = "#393330"
   },
   RainbowDelimiterBlue = {
@@ -2232,7 +2235,9 @@ local highlights = {
     bg = "#a23ea4",
     fg = "#fad8bf"
   },
-  SneakScope = {},
+  SneakScope = {
+    bg = "#dbe0c0"
+  },
   Special = {
     link = "Type"
   },
@@ -2380,6 +2385,7 @@ local highlights = {
     fg = "#c0b4a6"
   },
   Visual = {
+    bg = "#dbe0c0",
     fg = "#393330"
   },
   VisualNOS = {
@@ -2413,6 +2419,7 @@ local highlights = {
     link = "NonText"
   },
   WildMenu = {
+    bg = "#dbe0c0",
     fg = "#393330"
   },
   WinBar = {

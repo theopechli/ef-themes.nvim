@@ -2,7 +2,7 @@
 # Auto generated with https://github.com/theopechli/ef-themes.nvim/blob/master/lua/ef-themes/extras/fish.lua
 
 set -l foreground 393330
-set -l selection ${visual}
+set -l selection dbe0c0
 set -l comment 6e678f
 set -l red b0000f
 set -l orange b44405
